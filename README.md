@@ -1,6 +1,6 @@
 ## Welcome to My GitHub Page
 
-# Hi, I'm Lourdes 👋 👩‍💻
+# Hi, I'm Lourdes Castillo 👋 👩‍💻
 
 <div class="wp-block-image">
   <figure class="alignleft"><img src="https://github.com/lourcastillo/lourcastillo.github.io/blob/master/readmegithublca.png" alt="" /></figure>
