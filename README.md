@@ -7,4 +7,5 @@ Highly motivated Quality Assurance Engineer with 5+ years of experience. Concern
 ## Find me around the web 🌎:
 - Networking to share updates on <a href="https://www.linkedin.com/in/lourcastillo/">Linkedin</a> 💼
 - Twitter <a href="https://www.twitter.com/lourcastle"> lourcastle</a> 💬
+- Instagram <a href="https://www.instagram.com/lourcastillo"> lourcastillo</a> 🎀
 - Sharing some mozillians news <a href="https://discourse.mozilla.org/u/lourcastillo/summary">Discourse</a> 🔭
