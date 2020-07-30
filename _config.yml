@@ -41,13 +41,6 @@ future:      true
 highlighter: pygments
 markdown:    kramdown
 
-responsive_image:
-  template: _includes/responsive-image.html
-  sizes:
-    - width: 320
-    - width: 480
-    - width: 800
-
 kramdown:
   auto_ids: true
   footnote_nr: 1
