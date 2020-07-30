@@ -1,4 +1,3 @@
-## Welcome to My GitHub Page
 ![lourcastillo](newllca.png)
 # Hi, I'm Lourdes Castillo 👋 👩‍💻
 Highly motivated Quality Assurance Engineer with 5+ years of experience and a passionate bug hunter. Concerned about delivering fluent communication, speak sincerely and confidently with the Software Delivery Team. The most important thing is generating value for the business preventing production issues with the best value and quality for the product. Community volunteer and Mozilla Representative in Chile <a href="https://community.mozilla.org/people/lourcastillo/">Community Mozilla Portal 🌟</a>
