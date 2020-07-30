@@ -1,26 +1,18 @@
 ---
 layout: post
 permalink: /about/index.html
-title: About the Theme
-description: Balzac is a new, fluid & responsive theme for Jekyll (and AnchorCMS). It's gloriously beautiful and suited to long form. Built on a SCSS foundation, it's organized and awesome.
+title: About me
+description: This blog has a purpose of creating random content of my life from the personal to the professional. Linked from volunteering at Mozilla, being a mother of a child with autism and a professional QA Engineer.
 tags: [about, Jekyll, theme, responsive]
 image:
-  feature: soft-trees.jpg
+  feature: newllca.png
 ---
 
-This is built on Semantic.gs grid framework which I edited a bit to make it fluid. I hope you enjoy using, forking, whatevering this theme as much as I did making it. 
+# Hi, I'm Lourdes Castillo 👋 👩‍💻
+Highly motivated Quality Assurance Engineer with 5+ years of experience and a passionate bug hunter. Concerned about delivering fluent communication, speak sincerely and confidently with the Software Delivery Team. The most important thing is generating value for the business preventing production issues with the best value and quality for the product. Community volunteer and Mozilla Representative in Chile <a href="https://community.mozilla.org/people/lourcastillo/">Community Mozilla Portal 🌟</a>
 
-### Features
-* flexible, uses max-width for responsive goodness
-* responsive drop down menu
-* retina images using @2x
-* post loop in the footer showing 3 latest post
-* custom portfolio page for case studies
-
-### Acknowledgements
-I utilized my own HTML templates, but had no prior knowledge of liquid nor the required Jekyll system file format. I took [Michael Rose](http://twitter.com/mmistakes)'s theme [Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes/). Having a prebuilt archive and the YAML front-matter already set up was a great help. 
-
- The lovely font shown here is Calendas. For full splendor on your blog, I suggest you [head over and buy that](http://calendasplus.com/). The full family is 3 weights and costs $3. Many thanks to Daniel Bruce for the wonderful Entypo icons. Those can be picked up at [entypo.com](http://entypo.com), but are included with the source files. It's also <b>retina ready</b> via retina.js. Check out how that works over at [retinajs.com](http://retinajs.com).
-
-### The Name
-Balzac was a famous writer, known for his beautiful prose. I read some Balzac in school, but mostly feel comfort in the name of my favorite coffee shop in Stratford, Ontario. 
+## Find me around the web 🌎:
+- Networking to share updates on <a href="https://www.linkedin.com/in/lourcastillo/">Linkedin</a> 💼
+- Twitter <a href="https://www.twitter.com/lourcastle"> lourcastle</a> 💬
+- Instagram <a href="https://www.instagram.com/lourcastillo"> lourcastillo</a> 🎀
+- Sharing some mozillians news <a href="https://discourse.mozilla.org/u/lourcastillo/summary">Discourse</a> 🔭
