@@ -36,10 +36,17 @@ links:
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    America/Santiago
 future:      true
 highlighter: pygments
 markdown:    kramdown
+
+responsive_image:
+  template: _includes/responsive-image.html
+  sizes:
+    - width: 320
+    - width: 480
+    - width: 800
 
 kramdown:
   auto_ids: true
