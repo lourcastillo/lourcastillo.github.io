@@ -9,7 +9,7 @@ Location: {{ site.owner.location }}
                            
 /* THANKS */                           
 Creator of Balzac theme: Cole Townsend
-Twitter: @lourcastillo
+Twitter: @twnsndco
 
 /* SITE */                         
 Last update: {{ site.time | date: '%F' }}
