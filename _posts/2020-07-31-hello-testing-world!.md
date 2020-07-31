@@ -11,8 +11,7 @@ I didn't know if I'd ever write on a website again. Since 2016 I stopped writing
 
 <div align="center"> 
         
-<a data-flickr-embed="true" data-header="true" href="https://www.flickr.com/photos/firefox_community/7305063022/in/faves-36529808@N06/" title="IMG_1855"><img src="https://live.staticflickr.com/7239/7305063022_a13660420b_n.jpg" width="213" height="320" alt="IMG_1855"></a>
-
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/firefox_community/7305063022/in/faves-36529808@N06/" title="IMG_1855"><img src="https://live.staticflickr.com/7239/7305063022_a13660420b_m.jpg" width="160" height="240" alt="IMG_1855"></a>
 </div>
 
 Rather than being a test post, it is a statement about the issues I will address here. The influence will come strongly on Quality Assurance, Testing Strategy, methodologies, automation, serverless, among other things, and keeping the focus on free software and Open Source.
