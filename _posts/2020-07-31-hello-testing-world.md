@@ -5,7 +5,7 @@ description: "What better than starting with this title a new beginning for a bl
 categories: articles
 date: 2020-07-31
 image: 
-        feature: newllca.jpg
+        feature: testllca.jpg
 ---
 I didn't know if I'd ever write on a website again. Since 2016 I stopped writing and as a blogger, I was offline due to lack of time among other personal problems. Today, thanks to the fact that I got back my [GitHub user](https://github.com/lourcastillo) and supported with [Jekyll](https://jekyllrb.com/docs/community/) and [GitHub Pages](https://pages.github.com/), I will try to bring something "new" to the web.
 
