@@ -9,16 +9,14 @@ image:
 ---
 
 ## Hi, I'm Lourdes Castillo and you can find me around the web:
-
 <div class="wp-block-image">
-  <figure class="aligncenter"><img src="/images/LCA_profile.jpg" alt="" /></figure> 
-</div>
-
+  <figure class="alignleft"><img src="/images/lourcastillo.jpg" alt="" /></figure> 
+  
 - Networking to share updates on <a href="https://www.linkedin.com/in/lourcastillo/">Linkedin</a> 💼
 - Twitter <a href="https://www.twitter.com/lourcastle"> lourcastle</a> 💬
 - Instagram <a href="https://www.instagram.com/lourcastillo"> lourcastillo</a> 🎀
 - Sharing some mozillians news <a href="https://discourse.mozilla.org/u/lourcastillo/summary">Discourse</a> 🔭
-
+</div>
 
 
 
