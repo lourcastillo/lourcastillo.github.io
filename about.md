@@ -9,7 +9,6 @@ image:
 ---
 
 ## Hi, I'm Lourdes Castillo and you can find me around the web:
-![Lourdes Castillo](http://lourcastillo.github.io/images/lourcastillo.jpg )
 - Networking to share updates on <a href="https://www.linkedin.com/in/lourcastillo/">Linkedin</a> 💼
 - Twitter <a href="https://www.twitter.com/lourcastle"> lourcastle</a> 💬
 - Instagram <a href="https://www.instagram.com/lourcastillo"> lourcastillo</a> 🎀
