@@ -7,8 +7,7 @@ tags: [about, Jekyll, theme, responsive]
 image:
   feature: aboutllca.jpg
 ---
-
-## Hi, I'm Lourdes Castillo and you can find me around the web:
+### Hi, I'm Lourdes Castillo and you can find me around the web:
 - Networking to share updates on <a href="https://www.linkedin.com/in/lourcastillo/">Linkedin</a> 💼
 - Twitter <a href="https://www.twitter.com/lourcastle"> lourcastle</a> 💬
 - Instagram <a href="https://www.instagram.com/lourcastillo"> lourcastillo</a> 🎀
