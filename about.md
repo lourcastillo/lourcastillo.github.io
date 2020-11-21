@@ -10,7 +10,7 @@ image:
 
 ## Hi, I'm Lourdes Castillo and you can find me around the web:
 <div class="wp-block-image">
-  <figure class="aligncenter border"><img src="/images/lourcastillo.jpg" width="100" height="100" /></figure> 
+  <figure class="aligncenter border"><img src="/images/lourcastillo.jpg" width="50" height="50" /></figure> 
 </div>
 
 - Networking to share updates on <a href="https://www.linkedin.com/in/lourcastillo/">Linkedin</a> 💼
