@@ -9,6 +9,11 @@ image:
 ---
 
 ## Hi, I'm Lourdes Castillo and you can find me around the web:
+
+<div class="wp-block-image">
+  <figure class="aligncenter"><img src="/images/LCA_profile.jpg" alt="" /></figure> 
+</div>
+
 - Networking to share updates on <a href="https://www.linkedin.com/in/lourcastillo/">Linkedin</a> 💼
 - Twitter <a href="https://www.twitter.com/lourcastle"> lourcastle</a> 💬
 - Instagram <a href="https://www.instagram.com/lourcastillo"> lourcastillo</a> 🎀
