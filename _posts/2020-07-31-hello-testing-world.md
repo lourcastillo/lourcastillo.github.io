@@ -3,6 +3,7 @@ layout: post-light-feature
 title: Hello testing world!
 description: "What better than starting with this title a new beginning for a blog with testing content!"
 categories: articles
+comments: true
 date: 2020-07-31
 image: 
         feature: testllca.jpeg
