@@ -4,7 +4,7 @@ title: A break to evolve
 description: "It was not an easy decision to make but really healing"
 categories: articles
 comments: true
-date: 2021-01-13
+date: 2021-02-15
 image: 
         feature: FamilyTime.jpg
 ---
