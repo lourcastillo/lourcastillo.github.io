@@ -1,7 +1,7 @@
 ---
 layout: post-light-feature
 title: Retrospective of my year 2021
-description: "This will be a brief summary of my experience in the pandemic year as a mother and IT professional"
+description: "My experiences and thoughts as a mother and an IT professional during the pandemic year"
 categories: articles
 comments: true
 date: 2022-01-20
