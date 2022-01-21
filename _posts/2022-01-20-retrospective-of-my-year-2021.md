@@ -4,7 +4,7 @@ title: Retrospective of my year 2021
 description: "This will be a brief summary of my experience in the pandemic year as a mother and IT professional"
 categories: articles
 comments: true
-date: 2021-01-13
+date: 2022-01-20
 image: 
         feature: pandemic.jpg
 ---
