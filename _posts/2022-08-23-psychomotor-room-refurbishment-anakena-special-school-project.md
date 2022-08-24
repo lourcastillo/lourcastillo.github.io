@@ -14,7 +14,8 @@ The school works inclusively to provide quality education to all of its students
 
 The school is made up of a multidisciplinary and competent team, at the forefront of the education of students with autism spectrum disorders and intellectual disabilities, that, together with their families, seeks to promote their integral education and value their diversity.
 
-**The school staff:**
+**The school staff**
+
 14 teachers
 4 teachers who belong to the management team (2 Director of the Board of Directors, a General Director, Head of the Technical Pedagogical Unit)
 4 Education Assistants (Occupational Therapist, Psychologist, Coexistence Manager, Speech therapist)
@@ -23,6 +24,7 @@ The school is made up of a multidisciplinary and competent team, at the forefron
 2 cleaning assistants
 
 **Project Description**
+
 Refurbishment and adaptation spaces for people with autism and intellectual disabilities to improve the quality of life of the students from Anakena special school.
 
 **Importance of Project**
@@ -30,9 +32,11 @@ Refurbishment and adaptation spaces for people with autism and intellectual disa
 It will directly benefit 136 students of the Anakena Elementary School from La Comuna de La Florida, Santiago de Chile. The percentage of vulnerability (social registry of households), what we have access to report from families, is that the Anakena school currently serves 103 students in vulnerable situations. It’s important to mention that the Anakena school is free of charge.
 
 **ASD Chile population**
+
 A study was conducted to determine the prevalence of ASD in 2 urban districts of Santiago de Chile, the result was that in a sample of 272 boys and girls, 5 were clinically diagnosed with ASD. A prevalence of ASD of 1.95% was obtained with a sex distribution of 4 boys to 1 girl.
 This is the first estimation of ASD prevalence in two cities of Santiago de Chile.
 A high prevalence of this condition was obtained, which highlights the need to obtain resources for a multidisciplinary and early approach [Revista Chilena Pediatría 2021](https://www.revistachilenadepediatria.cl/index.php/rchped/article/view/2503).
 
 [Please Donate Today](https://paypal.me/ProyectoAnakena?country.x=CL&locale.x=es_XC)
+
 **Thanks for your donation!**
