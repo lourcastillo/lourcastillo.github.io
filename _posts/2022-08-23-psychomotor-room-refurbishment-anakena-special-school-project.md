@@ -39,4 +39,4 @@ A high prevalence of this condition was obtained, which highlights the need to o
 
 [Please Donate Today](https://paypal.me/ProyectoAnakena?country.x=CL&locale.x=es_XC)
 
-**Thanks for your donation!**
+**Thanks for your donation!** ❤️
