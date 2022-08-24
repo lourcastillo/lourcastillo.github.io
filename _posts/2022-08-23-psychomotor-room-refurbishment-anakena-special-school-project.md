@@ -6,7 +6,7 @@ categories: articles
 comments: true
 date: 2022-08-23
 image: 
-        feature: anakena.jpg
+        feature: anakena.jpeg
 ---
 We need to support the Psychomotor Room Refurbishment Project from the Anakena Elementary Special School. This school has been serving students with special educational needs since 1987, as the years have passed the school has been developing a more inclusive and strengthened proposal to face the challenges we face as professionals.
  The fundamental pillars of the educational reform implemented in 2013 involve educational quality and inclusion. Our educational project aims to focus on these two objectives, on the one hand improving our pedagogical practices, and on the other ensuring that this educational process reaches all students, delivering meaning and motivation for their development. Our project aims to implement a systemic view, which recognizes all members of the school community as a fundamental part of the integral development of our students.
