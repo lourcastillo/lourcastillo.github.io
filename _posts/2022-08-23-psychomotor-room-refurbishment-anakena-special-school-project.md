@@ -37,6 +37,6 @@ A study was conducted to determine the prevalence of ASD in 2 urban districts of
 This is the first estimation of ASD prevalence in two cities of Santiago de Chile.
 A high prevalence of this condition was obtained, which highlights the need to obtain resources for a multidisciplinary and early approach [Revista Chilena Pediatría 2021](https://www.revistachilenadepediatria.cl/index.php/rchped/article/view/2503).
 
-[Please Donate Today](https://paypal.me/ProyectoAnakena?country.x=CL&locale.x=es_XC)
+[Please Donate Today](https://gofund.me/18903321)
 
 **Thanks for your donation!** ❤️
